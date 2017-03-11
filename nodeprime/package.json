@@ -1,0 +1,21 @@
+{
+  "name": "nodeprime",
+  "version": "1.0.0",
+  "description": "first foray into backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caseykugler/nodeprime"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Casey Kugler",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/caseykugler/nodeprime/issues"
+  }
+}
